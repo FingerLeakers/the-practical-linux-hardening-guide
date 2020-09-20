@@ -587,3 +587,15 @@ proc  /proc  proc  defaults,hidepid=2  0 0
 | Setting up polyinstantiated directories for `/tmp` and `/var/tmp` | :black_square_button: | :black_square_button: |
 | Secure `/dev/shm` directory with `nodev`, `nosuid`, `noexec` options | :black_square_button: | :black_square_button: |
 | Secure `/proc` filesystem with `hidepid=2` option | :black_square_button: | :black_square_button: |
+
+
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
